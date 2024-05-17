@@ -1,3 +1,4 @@
+参考: https://gitee.com/robbinqin/playground2022
 - 原文：《阿里技术专家详解 DDD 系列 第一讲- Domain Primitive》
 - 作者：殷浩
 - 发布日期：2019年9月2日
